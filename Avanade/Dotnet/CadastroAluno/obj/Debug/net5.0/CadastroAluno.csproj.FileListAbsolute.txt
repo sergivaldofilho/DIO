@@ -1,0 +1,16 @@
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\obj\Debug\net5.0\CadastroAluno.csprojAssemblyReference.cache
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\obj\Debug\net5.0\CadastroAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\obj\Debug\net5.0\CadastroAluno.AssemblyInfoInputs.cache
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\obj\Debug\net5.0\CadastroAluno.AssemblyInfo.cs
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\obj\Debug\net5.0\CadastroAluno.csproj.CoreCompileInputs.cache
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\bin\Debug\net5.0\CadastroAluno.exe
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\bin\Debug\net5.0\CadastroAluno.deps.json
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\bin\Debug\net5.0\CadastroAluno.runtimeconfig.json
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\bin\Debug\net5.0\CadastroAluno.runtimeconfig.dev.json
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\bin\Debug\net5.0\CadastroAluno.dll
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\bin\Debug\net5.0\ref\CadastroAluno.dll
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\bin\Debug\net5.0\CadastroAluno.pdb
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\obj\Debug\net5.0\CadastroAluno.dll
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\obj\Debug\net5.0\ref\CadastroAluno.dll
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\obj\Debug\net5.0\CadastroAluno.pdb
+C:\Github Repositorios\DIO\Avanade\Dotnet\CadastroAluno\obj\Debug\net5.0\CadastroAluno.genruntimeconfig.cache

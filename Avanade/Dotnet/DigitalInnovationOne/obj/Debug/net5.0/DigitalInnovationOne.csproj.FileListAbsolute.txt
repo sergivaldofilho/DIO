@@ -1,0 +1,16 @@
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csprojAssemblyReference.cache
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfo.cs
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.dll
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\obj\Debug\net5.0\ref\DigitalInnovationOne.dll
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.pdb
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.exe
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.deps.json
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.json
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.dev.json
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.dll
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\bin\Debug\net5.0\ref\DigitalInnovationOne.dll
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.pdb
+C:\Github Repositorios\DIO\Avanade\Dotnet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.genruntimeconfig.cache
