@@ -6,11 +6,23 @@ namespace DigitalInnovationOne
   {
     static void Main(string[] args)
     {
-      int numeroVezes = 5;
-
-      for (int i = 0; i < numeroVezes; i++)
+      Console.WriteLine("Informe um número: ")
+      int R = Int32.Parse(Console.ReadLine());
+      Console.WriteLine("Informe outro número: ")
+      int V = Int32.Parse(Console.ReadLine());
+      int qtdNumV = 0;
+      
+      if (R >= V)
       {
-        Console.WriteLine($"Seja bem vindo ao curso de .NET {i}");
+        do 
+        {
+          qtdNumV++;
+          V = Int32.Parse(Console.ReadLine());
+        } while (R >= V);
+        Console.WriteLine(qtdNumV);
+      } else 
+      {
+        Console.WriteLine(qtdNumV);
       }
     }
   }
